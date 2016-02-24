@@ -1,2 +1,3 @@
 init fail
 commit fail master 1
+commit fail 1
